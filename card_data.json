@@ -1,0 +1,254 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "type_card": "talking",
+            "description": "Adakah penyesalan yang sampai hari ini kamu sesali?"
+        },
+        {
+            "id": 2,
+            "type_card": "truth",
+            "description": "Udah mandi wajib hari ini?"
+        },
+        {
+            "id": 3,
+            "type_card": "dare",
+            "description": "Coba minum sambil ngobrol"
+        },
+        {
+            "id": 4,
+            "type_card": "truth",
+            "description": "Siapa artis yang pertama kali bikin kamu naksir?"
+        },
+        {
+            "id": 5,
+            "type_card": "talking",
+            "description": "Hidup adalah tentang pilihan, diantara karir dan keluarga mana yang bakal kamu pilih dan kejar?"
+        },
+        {
+            "id": 6,
+            "type_card": "truth",
+            "description": "Apakah kamu punya bakat terpendam yang ternyata harus kamu pendam?"
+        },
+        {
+            "id": 7,
+            "type_card": "dare",
+            "description": "Coba ngomong sambil nutup hidung selama 2 putaran"
+        },
+        {
+            "id": 8,
+            "type_card": "truth",
+            "description": "Kenapa kamu putus dengan mantan yang sebelumnya?"
+        },
+        {
+            "id": 9,
+            "type_card": "truth",
+            "description": "Kata yg akan kamu ucapkan bila pasangan kamu selingkuh?"
+        },
+        {
+            "id": 10,
+            "type_card": "truth",
+            "description": "Kalau ada jin yang memberikanmu tiga permohonan, apa yang kamu inginkan?"
+        },
+        {
+            "id": 11,
+            "type_card": "truth",
+            "description": "Barang termahal apa yang pernah diberikan pasangan?"
+        },
+        {
+            "id": 12,
+            "type_card": "truth",
+            "description": "Apa yg akan kamu lakukan jika kamu di kentutin pasangan kamu"
+        },
+        {
+            "id": 13,
+            "type_card": "truth",
+            "description": "Barang termahal apa yg pernah diberikan mantan pacar?"
+        },
+        {
+            "id": 14,
+            "type_card": "dare",
+            "description": "Katakan ‘meong’ di setiap akhir kalimat sampai giliranmu yang selanjutnya."
+        },
+        {
+            "id": 15,
+            "type_card": "dare",
+            "description": "Tirukan salah satu emoji di WA yang dipilih oleh pasanganmu."
+        },
+        {
+            "id": 16,
+            "type_card": "dare",
+            "description": "Coba ekspresikan ketika kamu ngeden BAB selama 5 detik"
+        },
+        {
+            "id": 17,
+            "type_card": "talking",
+            "description": "Lebih pilih mana, pergi ke luar rumah tanpa celana dalam atau sebulan tidak keramas?"
+        },
+        {
+            "id": 18,
+            "type_card": "dare",
+            "description": "Tunjukkan kemampuan unikmu yg jarang\/ tidak bisa dilakukan orang lain"
+        },
+        {
+            "id": 19,
+            "type_card": "talking",
+            "description": "Apa arti dari KELUARGA bagi kamu ?"
+        },
+        {
+            "id": 20,
+            "type_card": "truth",
+            "description": "Makanan apa yang pernah kamu buat dan ternyata gak enak?"
+        },
+        {
+            "id": 21,
+            "type_card": "talking",
+            "description": "Jika kamu berkesempatan mengulang waktu, apa yang ingin kamu ubah?"
+        },
+        {
+            "id": 22,
+            "type_card": "dare",
+            "description": "Baca \"Chat Terakhir\" yg kamu kirim ke pasangan"
+        },
+        {
+            "id": 23,
+            "type_card": "truth",
+            "description": "Apa nama panggilan teraneh yang kamu punya?"
+        },
+        {
+            "id": 24,
+            "type_card": "dare",
+            "description": "Bertingkahlah seperti ayam sampai giliranmu yang selanjutnya"
+        },
+        {
+            "id": 25,
+            "type_card": "truth",
+            "description": "Apa yg akan kamu lakukan jika pasanganmu ketauan berbohong"
+        },
+        {
+            "id": 26,
+            "type_card": "dare",
+            "description": "Sebutkan 3 nama mantan mu "
+        },
+        {
+            "id": 27,
+            "type_card": "dare",
+            "description": "Tirukan suara monyet selama 5 detik "
+        },
+        {
+            "id": 28,
+            "type_card": "dare",
+            "description": "Tirukan suara \"buaya\" berbunyi"
+        },
+        {
+            "id": 29,
+            "type_card": "truth",
+            "description": "sebutkan tetangga yang tidak ramah"
+        },
+        {
+            "id": 30,
+            "type_card": "truth",
+            "description": "lebih percaya omongan orang lain atau pasangan sendiri?"
+        },
+        {
+            "id": 31,
+            "type_card": "truth",
+            "description": "Bagian tubuh mana dari pasanganmu yang kamu suka?"
+        },
+        {
+            "id": 32,
+            "type_card": "truth",
+            "description": "Kamu lebih suka \"Diatas\" apa \"Dibawah\" ?"
+        },
+        {
+            "id": 33,
+            "type_card": "truth",
+            "description": "Pernah pipis di kolam renang gak? Dimana dan Kapan?"
+        },
+        {
+            "id": 34,
+            "type_card": "dare",
+            "description": "Tirukan gaya ngomel pasangan kamu"
+        },
+        {
+            "id": 35,
+            "type_card": "talking",
+            "description": "Apa yang membuat kamu bersemangat untuk terus hidup?"
+        },
+        {
+            "id": 36,
+            "type_card": "truth",
+            "description": "Jadi istri satu satunya, suami pulang tiap hari tapi uang pas-pasan, atau jadi istri kedua dan suami jarang pulang tapi duit banyak?"
+        },
+        {
+            "id": 37,
+            "type_card": "truth",
+            "description": "sebutkan mantan pasangan mu yang kamu kenal?"
+        },
+        {
+            "id": 38,
+            "type_card": "truth",
+            "description": "siapa mantan pasangan mu yang bikin kamu emosi?"
+        },
+        {
+            "id": 39,
+            "type_card": "truth",
+            "description": "sebutkan 3 hal utama dalam pernikahan? jelaskan dan rincikan"
+        },
+        {
+            "id": 40,
+            "type_card": "truth",
+            "description": "sakit parah yang pernah dialami?"
+        },
+        {
+            "id": 41,
+            "type_card": "talking",
+            "description": "Jika kamu hidup di jaman purba, rutinitas apa yang akan kamu lakukan?"
+        },
+        {
+            "id": 42,
+            "type_card": "talking",
+            "description": "Ceritakan hal yang paling menyakitkan selama kamu hidup"
+        },
+        {
+            "id": 43,
+            "type_card": "talking",
+            "description": "Jika kamu bisa tinggal di mana saja, di mana kamu akan tinggal?"
+        },
+        {
+            "id": 44,
+            "type_card": "talking",
+            "description": "Apa yang paling kamu hargai dari seorang teman?"
+        },
+        {
+            "id": 45,
+            "type_card": "talking",
+            "description": "Love language-mu apa?"
+        },
+        {
+            "id": 46,
+            "type_card": "talking",
+            "description": "Apa pendapatmu tentang pernikahan?"
+        },
+        {
+            "id": 47,
+            "type_card": "talking",
+            "description": "Apakah kamu menganggap dirimu lucu?"
+        },
+        {
+            "id": 48,
+            "type_card": "talking",
+            "description": "Siapa gebetan selebriti masa kecilmu?"
+        },
+        {
+            "id": 49,
+            "type_card": "talking",
+            "description": "Seberapa penting uang bagimu?"
+        },
+        {
+            "id": 50,
+            "type_card": "talking",
+            "description": "Apa sesuatu yang ingin kamu tanyakan kepadaku tetapi takut?"
+        }
+    ]
+}
